@@ -1,0 +1,6 @@
+id	text	page	type	choices	choiceNames	reverse	placeholder	min	max	disabled	checkType	width	height	inline	randomize
+NA	Construct your own social network! 	1	h3	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	<br>	1	HTML	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	"First, you are asked to list 10 social contacts that you have interacted with in the past 2 weeks. "	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	"Then, for each individual you listed, you are asked to indicate if that individual knows the other 9 individuals. Leave the individuals own check box as empty."	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	"At the end, you are able to download the data for further analysis in igraph. "	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0

@@ -1,0 +1,13 @@
+id	text	page	type	choices	choiceNames	reverse	placeholder	min	max	disabled	checkType	width	height	inline	randomize
+NA	Here are your data. Copy and paste it into a text editor.	1	h4	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	nodes	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	edges_a1	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	edges_a2	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	edges_a3	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	edges_a4	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	edges_a5	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	edges_a6	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	edges_a7	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	edges_a8	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	edges_a9	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+NA	edges_a10	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0

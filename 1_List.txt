@@ -1,0 +1,13 @@
+id	text	page	type	choices	choiceNames	reverse	placeholder	min	max	disabled	checkType	width	height	inline	randomize
+NA	List 10 social contacts you have recently interacted with.	1	p	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
+a1	Individual 1	1	textInput	NA	NA	NA	NA	NA	NA	1	nchar	250px	NA	NA	0
+a2	Individual 2	1	textInput	NA	NA	NA	NA	NA	NA	1	nchar	250px	NA	NA	0
+a3	Individual 3	1	textInput	NA	NA	NA	NA	NA	NA	1	nchar	250px	NA	NA	0
+a4	Individual 4	1	textInput	NA	NA	NA	NA	NA	NA	1	nchar	250px	NA	NA	0
+a5	Individual 5	1	textInput	NA	NA	NA	NA	NA	NA	1	nchar	250px	NA	NA	0
+a6	Individual 6	1	textInput	NA	NA	NA	NA	NA	NA	1	nchar	250px	NA	NA	0
+a7	Individual 7	1	textInput	NA	NA	NA	NA	NA	NA	1	nchar	250px	NA	NA	0
+a8	Individual 8	1	textInput	NA	NA	NA	NA	NA	NA	1	nchar	250px	NA	NA	0
+a9	Individual 9	1	textInput	NA	NA	NA	NA	NA	NA	1	nchar	250px	NA	NA	0
+a10	Individual 10	1	textInput	NA	NA	NA	NA	NA	NA	1	nchar	250px	NA	NA	0
+NA	Please answer all questions on this page to continue.	1	h5	NA	NA	NA	NA	NA	NA	0	NA	750px	NA	NA	0
